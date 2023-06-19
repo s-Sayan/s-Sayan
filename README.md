@@ -12,7 +12,7 @@
 
 - 🔭 I’m currently working on [Lensit](https://github.com/carronj/LensIt/tree/clusterlens)
 
-- 🧑🏻‍💻 All of my projects are available at [s-sayan.github.io](s-sayan.github.io)
+- 🧑🏻‍💻 All of my projects are available at [s-sayan.github.io](https://s-sayan.github.io)
 
 - 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS)**
 
