@@ -1,5 +1,7 @@
+#[![MasterHead](https://d2r55xnwy6nx47.cloudfront.net/uploads/2020/03/UniverseShape_LedeFullWidth.jpg)](https://s-sayan.github.io)
 <h1 align="center">Hi folks, I'm Sayan</h1>
 <h3 align="center">A passionate cosmologist from India</h3>
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="s-sayan" /> </p>
 
@@ -11,7 +13,7 @@
 
 - 📫 How to reach me **sayan.saha@students.iiserpune.ac.in**
 
-- 📄 Know about my experiences [s-sayan.github.io/docs/SayanSaha_CV.pdf](s-sayan.github.io/docs/SayanSaha_CV.pdf)
+- 📄 Know about my experiences - [CV]([s-sayan.github.io/docs/SayanSaha_CV.pdf](https://github.com/s-Sayan/s-sayan.github.io/blob/main/docs/SayanSaha_CV.pdf))
 
 - ⚡ Fun fact **I play guitar and love metal music :)**
 
