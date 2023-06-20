@@ -18,7 +18,7 @@
 
 - 📫 How to reach me **sayan.saha@students.iiserpune.ac.in**
 
-- 📄 Know about my experiences - [CV]([s-sayan.github.io/docs/SayanSaha_CV.pdf](https://github.com/s-Sayan/s-sayan.github.io/blob/main/docs/SayanSaha_CV.pdf))
+- 📄 Know about my experiences - [CV](https://s-sayan.github.io/docs/SayanSaha_CV.pdf)
 
 - ⚡ Fun fact **I play guitar and love metal music :)**
 
