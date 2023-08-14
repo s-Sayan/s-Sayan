@@ -14,7 +14,7 @@
 
 - 🧑🏻‍💻 All of my projects are available at [s-sayan.github.io](https://s-sayan.github.io)
 
-- 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS)**
+- 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS), Weak Gravitational Lensing, Galaxy-clusters**
 
 - 📫 How to reach me **sayan.saha@students.iiserpune.ac.in**
 
