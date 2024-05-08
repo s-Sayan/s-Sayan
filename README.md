@@ -7,13 +7,13 @@
 
 - 🧑🏻‍💻 All of my projects are available at [s-sayan.github.io](https://s-sayan.github.io)
 
-- 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS), Weak Gravitational Lensing, Galaxy-clusters**
+- 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS), Weak Gravitational Lensing, Galaxy-clusters, Bayesian Inferences**
 
 - 📫 How to reach me **sayan.saha@students.iiserpune.ac.in**
 
 - 📄 Know about my experiences - [CV](https://s-sayan.github.io/docs/SayanSaha_CV.pdf)
 
-- ⚡ Fun fact **I play guitar and love metal music :)**
+- ⚡ Beside my academic career, **I play guitar and love metal music :)**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
