@@ -3,13 +3,13 @@
 <h3 align="center">A passionate cosmologist from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="s-sayan" /> </p>
 
-- 🔭 I’m currently working on [Lensit](https://github.com/carronj/LensIt/tree/clusterlens)
+- 🔭 I’m currently working on [CosmoHMC](https://github.com/s-Sayan/CosmoHMC), [Lensit](https://github.com/carronj/LensIt/tree/clusterlens)
 
 - 🧑🏻‍💻 All of my projects are available at [s-sayan.github.io](https://s-sayan.github.io)
 
 - 💬 Ask me about **Cosmology, Cosmic Microwave Background (CMB), Large Scale Structure (LSS), Weak Gravitational Lensing, Galaxy-clusters, Bayesian Inferences**
 
-- 📫 How to reach me **sayan.saha@students.iiserpune.ac.in**
+- 📫 How to reach me **sa.saha@northeastern.edu**
 
 - 📄 Know about my experiences - [CV](https://s-sayan.github.io/docs/SayanSaha_CV.pdf)
 
