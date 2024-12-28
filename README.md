@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi folks 🙋🏻‍♂️, I'm Sayan</h1>
-<h3 align="center">A passionate cosmologist from India</h3>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=s-sayan&label=Profile%20views&color=0e75b6&style=flat" alt="s-sayan" /> </p>
 
 - 🔭 I’m currently working on [CosmoHMC](https://github.com/s-Sayan/CosmoHMC), [Lensit](https://github.com/carronj/LensIt/tree/clusterlens)
